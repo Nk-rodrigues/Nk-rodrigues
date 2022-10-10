@@ -35,7 +35,7 @@
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
      <br>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
-     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+     <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb"/>
      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws"/>
      <br>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
