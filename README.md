@@ -30,6 +30,8 @@
      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
      <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
      <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react"/>
+     <img src="https://img.shields.io/badge/MERN-05122A?style=flat&logo=mern"/>
+
      <br>
      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
