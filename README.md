@@ -11,7 +11,7 @@
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nk-rodrigues&show_icons=true&theme=blueberry &include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nk-rodrigues&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
         </p>
     </td>
     <td>
