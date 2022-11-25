@@ -8,7 +8,7 @@
        <ul>
         <li>👑 &nbsp; Associate Software Engineer at Accenture </li>
         <li>:computer: &nbsp; I'm Currently working on ETL scripts using PySpark and AWS</li>
-        <li>:books: I’m currently learning MERN Stack</li>
+        <li>:books: I’m currently learning NestJS</li>
        </ul>
        <p align="center">
          <br>
