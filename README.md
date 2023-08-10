@@ -6,7 +6,7 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-        <li>👑 &nbsp; Associate Software Engineer at Accenture </li>
+        <li>👑 &nbsp; Software Engineering Analyst at Accenture </li>
         <li>:computer: &nbsp; I'm Currently working on ETL scripts using PySpark and AWS</li>
         <li>:books: I’m currently learning NestJS</li>
        </ul>
