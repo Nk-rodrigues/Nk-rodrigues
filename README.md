@@ -7,7 +7,7 @@
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
         <li>👑 &nbsp; Software Engineering Analyst at Accenture </li>
-        <li>:computer: &nbsp; I'm Currently working on ETL scripts using PySpark and AWS</li>
+        <li>:computer: &nbsp; Building scalable ETL systems & engaging full-stack apps with PySpark, AWS, Kafka, and MERN.</li>
         <li>:books: I’m currently learning NestJS</li>
        </ul>
        <p align="center">
