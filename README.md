@@ -50,11 +50,11 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="mailto:nkrodrigues98@gmail.com" >
-      <img align="center" alt="Nirmalkumar Rodrigues | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <a href="mailto:nk" >
+      <img align="center" alt="NK | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/nirmalkumar-rodrigues-722781188/" >
-      <img align="center" alt="Nirmalkumar Rodrigues | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <a href="https://www.linkedin.com/" >
+      <img align="center" alt="NK | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
