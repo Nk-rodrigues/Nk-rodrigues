@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Nirmalkumar Rodrigues
+## I'm NK
 <table>
   <tr>
     <td>
